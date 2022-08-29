@@ -1,2 +1,9 @@
 # Python-ile-kamera-acip-kapatma
-Bu kodu çalıştırarak kameranızı açabilirsiniz. "q" tuşuna basıldığı zaman kapanacaktır.
+
+NASIL KULLANILIR:
+
+*Öncelikle bilgisayarınızda python yüklü olması gerekiyor.*
+1) pip install cv2
+2) python kamerakapatac.py 
+3) 2. madde olmaz ise python3 kamerakapatac.py yi deneyebilirsiniz.
+4) "q" tuşuna basıldığında program ve kamera kapanacaktır.
